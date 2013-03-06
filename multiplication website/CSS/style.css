@@ -1,0 +1,114 @@
+/* CSS Document */
+
+html{background-color:white;background-repeat:no-repeat;background-attachment:fixed;background-position:center;}
+body{ margin:0 auto; width:940px; /*overflow:hidden;*/ padding:10px; font-family:Arial, Helvetica, sans-serif; background-color:#53b2fb;border-radius:20px;}
+
+#interface_column {width:160px; border:solid #000 3px; /*float:left;*/ padding:15px; margin: 0 10px 10px 0; position:fixed; background-image:url(../images/column.jpg); background-repeat:no-repeat;}
+
+#welcome{width:400px;float:left;border-right: solid 2px black; padding:10px;}
+
+#section1{background-color:#fef885;}
+
+#first{width:250px; margin-left:640px; margin-top:-400px;}
+
+footer{ width:940px; float:left;}
+
+.content_img{width:320px; height:200px; background-color:#FF0; display:block; border:double #00FF00 3px;}
+
+#section1, #section2, #section3, #section4, #section5, #section6{border:solid  #000 3px; padding:15px; margin-bottom:10px; border-radius:20px;}
+
+h2{font-size:14px; padding:5px; margin-right:20px; text-align:center;}
+
+h3{float:left; }
+
+#moveleft{margin-left:140px;}
+
+#cert{width:500px; height:333px; border: solid 2px black;}
+
+#width{width:500px; margin-left:250px;}
+
+#center{margin-left:300px;}
+
+#moveCenter{margin-left:30px;}
+
+
+#section2, #section3, #section4, #section5, #section6{ background-color:#fef885;}
+
+a{display:block;width:100px;height:100px;border-radius:50px;font-size:12px;color:#fff;line-height:100px;text-align:center;background:#53b2fb; text-decoration:none; list-style:none; margin-left: 1em; margin-right: 60px;}
+
+ul{list-style:none;}
+
+
+/*#section2, #section3, #section4, #section5, #section6/*{display:none;}*/
+
+li{font-size:18px; color:#000;float:left; list-style:none;}
+
+/*a{ font-size:12px; text-decoration:none; color:#FFF; font-family:"Estrangelo Edessa"; border: 2px solid black;border-radius:200px; padding:10px;}*/
+
+a:hover{ background:black; color:#53b2fb;}
+
+h1{ font-size:38px; color:black; font-weight:bold; font-family:"Estrangelo Edessa"; padding-top:10px; margin-left:53px;}
+
+#pencil{float:left; margin-left:700px; margin-top:-125px;}
+
+#pencil1{float:left; margin-left:400px; margin-top:-115px;}
+
+header{ font-size:36px; margin-left:300px; font-family:Impact;}
+
+#answer2, #answer3, #answer4, #answer5{display:none;}
+
+ #answer7, #answer8, #answer9, #answer10{display:none;}
+ 
+  #answer12, #answer13, #answer14, #answer15{display:none;}
+  
+  #long{width:400px;}
+
+#flashContent{ border:double #53b2fb 5px; width:550px; height:400px; margin-left:50px;}
+
+#show12{background:green;}
+
+p{ font-family:"Estrangelo Edessa"; font-weight:bold; font-size:16px;}
+
+#answer5,#answer8,#answer14{ color:#090; font-weight:bold;}
+
+#answer2, #answer3, #answer4,#answer9, #answer10,#answer7, #answer12,#answer13,#answer15{ color:#FF0000; font-weight:bold;}
+
+img{ margin-left:250px;}
+
+
+#no{float:none;}
+
+
+#try1, #try2, #try3, #try4{ font-size:18px; color:blue; border-radius:0px; width:50px; height:50px; float:none;background-color:#fef885; }
+#try5, #try6, #try7, #try8{ font-size:18px; color:blue; border-radius:0px; width:55px; height:50px; float:none; background-color:#fef885;}
+#try9, #try10, #try11, #try12{ font-size:18px; color:blue; border-radius:0px; width:55px; height:50px; float:none; background-color:#fef885;}
+
+#try4:hover{ color:#0F0;}
+
+#try2:hover{ color:#0F0;}
+
+#try3:hover{ color:#0F0;}
+
+#try1:hover{ color:#0F0;}
+
+#try5:hover{ color:#0F0;}
+
+#try6:hover{ color:#0F0;}
+
+#try7:hover{ color:#0F0;}
+
+#try8:hover{ color:#0F0;}
+
+#try9:hover{ color:#0F0;}
+
+#try10:hover{ color:#0F0;}
+
+#try11:hover{ color:#0F0;}
+
+#try12:hover{ color:#0F0;}
+
+
+
+#section2, #section3, #section4, #section5, #section6{display:none;}
+
+form{ width:300px; margin:0 auto;}
